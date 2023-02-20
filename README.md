@@ -10,7 +10,7 @@ Script to count all rules in FORGe grammars; it provides grammar rule count, sub
 # Instructions for using the script
 1. Go to *FORGe_count-rules.ipynb* and open it in Colab.
 2. Create a *rule.zip* file that contains the *rule* folder you need the count of. Make sure it only contains grammars that are activated.
-3. Upload the *rule.zip* file to the Colab repository.
+3. Upload the *rule.zip* file to the Colab repository (in */content/*, the one you see by default when connecting).
 4. Run the first cell of the Colab to unzip the file.
 5. Run the second cell of the Colab to run the script.
 6. Gather the results in *out.txt*.
